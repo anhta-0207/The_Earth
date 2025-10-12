@@ -1,0 +1,33 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+Logs/
+
+# VS, Rider, and IDE folders
+.vs/
+.idea/
+*.sln.DotSettings.user
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+*.sln.iml
+
+# Unity auto-generated
+UpgradeLog.htm
